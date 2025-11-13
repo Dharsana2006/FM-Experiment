@@ -65,6 +65,7 @@ MODEL GRAPH:
 
 
 Program:
+```
 Ac=12.4;
 fc=5080;
 Am=9.4;
@@ -91,7 +92,7 @@ xlabel("Time(s)");
 ylabel("Amplitude");
 title("FM Modulated Signal (USB)");
 
-
+```
 
 
 Output Waveform:
